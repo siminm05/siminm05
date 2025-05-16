@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siminm05
+- 👋 Hi, I’m simin
 - 👀 I’m interested in: (currently) an internship
 - 🌱 I’m currently learning: MIPS assembly language
 - 💞️ I’m looking to collaborate on: I’m open to teaming up on cool projects — especially anything with low-level coding, fun UI work, or student-led initiatives!
