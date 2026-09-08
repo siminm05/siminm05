@@ -15,7 +15,7 @@ You can reach out on siminm1905@gmail.com or DM me here on GitHub
 **SQL · Microsoft SQL Server**
 
 ### 🧰 Tools & Software
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=github,vscode,pycharm)](https://skillicons.dev)
 
 **Also:** BlueJ · Code::Blocks · Canva · Video/Image Editing
 
