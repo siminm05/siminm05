@@ -1,6 +1,15 @@
-hello 
-I’m open to teaming up on cool projects - especially anything with low-level coding, fun UI work or student-led initiatives.
-You can reach out on siminm1905@gmail.com or DM me here on GitHub
+Hey, I'm Simin 👋💐
+Computer Engineering student. I like building things from the ground up and learning in public.
+
+---
+
+<h3 align="center">LeetCode</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/u/simin05/">
+    <img src="https://leetcard.jacoblin.cool/simin05?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
 
 ### 👨‍💻 Programming Languages
@@ -19,6 +28,9 @@ You can reach out on siminm1905@gmail.com or DM me here on GitHub
 
 **Also:** BlueJ · Code::Blocks · Canva · Video/Image Editing
 
+### Let's team up 🤝
+I'm open to collaborating on cool projects, especially anything with **low-level coding**, **fun UI work** or **student-led initiatives**.
+📫 Email me at [sawork1920@gmail.com](mailto:sawork1920@gmail.com) or DM me here on GitHub.
 <!---
 siminm05/siminm05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
